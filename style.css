@@ -1,0 +1,19 @@
+.name {
+    text-align: center;
+    border-bottom: 10px solid black;
+    background-color: white;
+    margin-bottom: 30px;
+}
+
+.img_text {
+    margin: auto;
+    width: fit-content;
+    display: flex;
+    align-items: center;
+}
+
+.wrapper {
+    background-color: sandybrown;
+    width: 80%;
+    margin: auto;
+}
